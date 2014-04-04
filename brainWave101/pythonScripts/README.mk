@@ -1,0 +1,1 @@
+python scripts for reading data from serial sent by arduino and storing it in a csv file for matlab to read it.
